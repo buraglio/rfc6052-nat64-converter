@@ -1,3 +1,7 @@
+# Binary version
+This repo is for the original python code. There is a go binary that is *much* faster and efficien and contains more utility, including this, that is available [here](https://github.com/buraglio/ipv6utils)
+
+
 # RFC 6052 converter
 
 This script allows you to convert between IPv6 and IPv4 addresses using the default well-known prefix (64:ff9b::/96) or specify a custom prefix.
